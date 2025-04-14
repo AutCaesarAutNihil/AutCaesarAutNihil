@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 8 Bytes Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
+> 📦 23 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,5 +75,5 @@ C                        1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AutCaesarAutNihil/AutCaesarAutNihil/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 01:29:28 UTC
+ Last Updated on 14/04/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
