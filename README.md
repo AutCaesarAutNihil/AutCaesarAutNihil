@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 25 Bytes Used in GitHub's Storage 
+> 📦 26 Bytes Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2025
  > 
@@ -42,19 +42,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        16 hrs 54 mins      █████████████████████████   99.34 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C                        16 hrs 10 mins      █████████████████████████   99.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  16 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VScode                   17 hrs 1 min        █████████████████████████   100.00 % 
+VScode                   16 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  16 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -70,5 +70,5 @@ C                        1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AutCaesarAutNihil/AutCaesarAutNihil/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 18:40:21 UTC
+ Last Updated on 20/04/2025 18:42:09 UTC
 <!--END_SECTION:waka-->
