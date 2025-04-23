@@ -7,8 +7,6 @@
 
 > 📦 27 Bytes Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -71,5 +69,5 @@ C                        1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/AutCaesarAutNihil/AutCaesarAutNihil/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 18:44:22 UTC
+ Last Updated on 23/04/2025 18:46:22 UTC
 <!--END_SECTION:waka-->
